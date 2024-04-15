@@ -25,8 +25,8 @@ def consultar_cpf(cpf):
 
     # Informações de autenticação
     login_payload = {
-        "email": "miguelmarqs1233@gmail.com",
-        "password": "Luis123@"
+        "email": "",
+        "password": ""
     }
 
     # Criar uma sessão para manter a autenticação
